@@ -1,0 +1,3 @@
+[submodule "Adafruit_MotorShield"]
+	path = Adafruit_MotorShield
+	url = https://github.com/adafruit/Adafruit_Motor_Shield_V2_Library.git
