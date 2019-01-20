@@ -4,3 +4,6 @@
 [submodule "BooleanSensor"]
 	path = BooleanSensor
 	url = https://github.com/WCRSyyc/BooleanSensor.git
+[submodule "RF24"]
+	path = RF24
+	url = https://github.com/nRF24/RF24.git
