@@ -7,3 +7,6 @@
 [submodule "RF24"]
 	path = RF24
 	url = https://github.com/nRF24/RF24.git
+[submodule "LiquidCrystall595"]
+	path = LiquidCrystall595
+	url = https://github.com/WCRSyyc/LiquidCrystal595.git
