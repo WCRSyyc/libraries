@@ -10,6 +10,3 @@
 [submodule "LiquidCrystall595"]
 	path = LiquidCrystall595
 	url = https://github.com/WCRSyyc/LiquidCrystal595.git
-[submodule "LedControl"]
-	path = LedControl
-	url = ./LedControl
